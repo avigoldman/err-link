@@ -1,16 +1,24 @@
 {
   "name": "err-link",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Build err.sh links",
   "main": "index.js",
   "scripts": {
     "lint": "standard --fix",
     "test": "npm run lint && ava"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avigoldman/err-link.git"
+  },
   "author": "Avi Goldman <me@avigoldman.com> (http://avigoldman.com)",
   "license": "MIT",
   "devDependencies": {
     "ava": "^0.24.0",
     "standard": "^10.0.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/avigoldman/err-link/issues"
+  },
+  "homepage": "https://github.com/avigoldman/err-link#readme"
 }
