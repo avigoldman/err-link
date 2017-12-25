@@ -1,0 +1,16 @@
+{
+  "name": "err-link",
+  "version": "1.0.0",
+  "description": "Build err.sh links",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "npm run lint && ava"
+  },
+  "author": "Avi Goldman <me@avigoldman.com> (http://avigoldman.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "standard": "^10.0.3"
+  }
+}
