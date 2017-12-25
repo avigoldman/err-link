@@ -1,6 +1,6 @@
 {
   "name": "err-link",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Build err.sh links",
   "main": "index.js",
   "scripts": {
